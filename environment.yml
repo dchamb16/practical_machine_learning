@@ -13,3 +13,5 @@ dependencies:
   - mlflow
   - seaborn
   - scikit-learn
+  - pip:
+    - scikit-plot
